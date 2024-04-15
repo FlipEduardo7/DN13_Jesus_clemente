@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\lango\\source\\repos\\Jesus\u0027s-AudioManager\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BFE9C625-9993-4031-9832-0E3917BE3E76}|Jesus\u0027s-AudioManager\\Jesus\u0027s-AudioManager.csproj|c:\\users\\lango\\source\\repos\\jesus\u0027s-audiomanager\\jesus\u0027s-audiomanager\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFE9C625-9993-4031-9832-0E3917BE3E76}|Jesus\u0027s-AudioManager\\Jesus\u0027s-AudioManager.csproj|solutionrelative:jesus\u0027s-audiomanager\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED72E417-86CD-4984-9731-9462FAE1416B}|AudioManager\\AudioManager.csproj|C:\\Users\\lango\\source\\repos\\Jesus\u0027s-AudioManager\\audiomanager\\automovil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED72E417-86CD-4984-9731-9462FAE1416B}|AudioManager\\AudioManager.csproj|solutionrelative:audiomanager\\automovil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED72E417-86CD-4984-9731-9462FAE1416B}|AudioManager\\AudioManager.csproj|C:\\Users\\lango\\source\\repos\\Jesus\u0027s-AudioManager\\audiomanager\\camion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED72E417-86CD-4984-9731-9462FAE1416B}|AudioManager\\AudioManager.csproj|solutionrelative:audiomanager\\camion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED72E417-86CD-4984-9731-9462FAE1416B}|AudioManager\\AudioManager.csproj|C:\\Users\\lango\\source\\repos\\Jesus\u0027s-AudioManager\\audiomanager\\tren.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED72E417-86CD-4984-9731-9462FAE1416B}|AudioManager\\AudioManager.csproj|solutionrelative:audiomanager\\tren.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED72E417-86CD-4984-9731-9462FAE1416B}|AudioManager\\AudioManager.csproj|C:\\Users\\lango\\source\\repos\\Jesus\u0027s-AudioManager\\audiomanager\\vehiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED72E417-86CD-4984-9731-9462FAE1416B}|AudioManager\\AudioManager.csproj|solutionrelative:audiomanager\\vehiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Automovil.cs",
+              "DocumentMoniker": "C:\\Users\\lango\\source\\repos\\Jesus\u0027s-AudioManager\\AudioManager\\Automovil.cs",
+              "RelativeDocumentMoniker": "AudioManager\\Automovil.cs",
+              "ToolTip": "C:\\Users\\lango\\source\\repos\\Jesus\u0027s-AudioManager\\AudioManager\\Automovil.cs",
+              "RelativeToolTip": "AudioManager\\Automovil.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T00:51:04.536Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Camion.cs",
+              "DocumentMoniker": "C:\\Users\\lango\\source\\repos\\Jesus\u0027s-AudioManager\\AudioManager\\Camion.cs",
+              "RelativeDocumentMoniker": "AudioManager\\Camion.cs",
+              "ToolTip": "C:\\Users\\lango\\source\\repos\\Jesus\u0027s-AudioManager\\AudioManager\\Camion.cs",
+              "RelativeToolTip": "AudioManager\\Camion.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABMAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T00:50:22.024Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Tren.cs",
+              "DocumentMoniker": "C:\\Users\\lango\\source\\repos\\Jesus\u0027s-AudioManager\\AudioManager\\Tren.cs",
+              "RelativeDocumentMoniker": "AudioManager\\Tren.cs",
+              "ToolTip": "C:\\Users\\lango\\source\\repos\\Jesus\u0027s-AudioManager\\AudioManager\\Tren.cs",
+              "RelativeToolTip": "AudioManager\\Tren.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T00:47:03.125Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Vehiculo.cs",
+              "DocumentMoniker": "C:\\Users\\lango\\source\\repos\\Jesus\u0027s-AudioManager\\AudioManager\\Vehiculo.cs",
+              "RelativeDocumentMoniker": "AudioManager\\Vehiculo.cs",
+              "ToolTip": "C:\\Users\\lango\\source\\repos\\Jesus\u0027s-AudioManager\\AudioManager\\Vehiculo.cs",
+              "RelativeToolTip": "AudioManager\\Vehiculo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T00:00:21.502Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\lango\\source\\repos\\Jesus\u0027s-AudioManager\\Jesus\u0027s-AudioManager\\Program.cs",
+              "RelativeDocumentMoniker": "Jesus\u0027s-AudioManager\\Program.cs",
+              "ToolTip": "C:\\Users\\lango\\source\\repos\\Jesus\u0027s-AudioManager\\Jesus\u0027s-AudioManager\\Program.cs",
+              "RelativeToolTip": "Jesus\u0027s-AudioManager\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T23:52:18.321Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
