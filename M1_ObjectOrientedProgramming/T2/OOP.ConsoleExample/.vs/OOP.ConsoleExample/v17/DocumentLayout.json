@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\lango\\source\\repos\\OOP.ConsoleExample\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0351CDC2-5EEE-41D0-962C-B3058957215A}|OOP.ConsoleExample\\OOP.ConsoleExample.csproj|C:\\Users\\lango\\source\\repos\\OOP.ConsoleExample\\oop.consoleexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0351CDC2-5EEE-41D0-962C-B3058957215A}|OOP.ConsoleExample\\OOP.ConsoleExample.csproj|solutionrelative:oop.consoleexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B83A8176-AE16-4279-93ED-4C2B18D84F30}|AudioManager\\AudioManager.csproj|C:\\Users\\lango\\source\\repos\\OOP.ConsoleExample\\audiomanager\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B83A8176-AE16-4279-93ED-4C2B18D84F30}|AudioManager\\AudioManager.csproj|solutionrelative:audiomanager\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B83A8176-AE16-4279-93ED-4C2B18D84F30}|AudioManager\\AudioManager.csproj|C:\\Users\\lango\\source\\repos\\OOP.ConsoleExample\\audiomanager\\cat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B83A8176-AE16-4279-93ED-4C2B18D84F30}|AudioManager\\AudioManager.csproj|solutionrelative:audiomanager\\cat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B83A8176-AE16-4279-93ED-4C2B18D84F30}|AudioManager\\AudioManager.csproj|C:\\Users\\lango\\source\\repos\\OOP.ConsoleExample\\audiomanager\\cow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B83A8176-AE16-4279-93ED-4C2B18D84F30}|AudioManager\\AudioManager.csproj|solutionrelative:audiomanager\\cow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B83A8176-AE16-4279-93ED-4C2B18D84F30}|AudioManager\\AudioManager.csproj|C:\\Users\\lango\\source\\repos\\OOP.ConsoleExample\\audiomanager\\lion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B83A8176-AE16-4279-93ED-4C2B18D84F30}|AudioManager\\AudioManager.csproj|solutionrelative:audiomanager\\lion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B83A8176-AE16-4279-93ED-4C2B18D84F30}|AudioManager\\AudioManager.csproj|C:\\Users\\lango\\source\\repos\\OOP.ConsoleExample\\audiomanager\\elephant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B83A8176-AE16-4279-93ED-4C2B18D84F30}|AudioManager\\AudioManager.csproj|solutionrelative:audiomanager\\elephant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B83A8176-AE16-4279-93ED-4C2B18D84F30}|AudioManager\\AudioManager.csproj|C:\\Users\\lango\\source\\repos\\OOP.ConsoleExample\\audiomanager\\pig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B83A8176-AE16-4279-93ED-4C2B18D84F30}|AudioManager\\AudioManager.csproj|solutionrelative:audiomanager\\pig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B83A8176-AE16-4279-93ED-4C2B18D84F30}|AudioManager\\AudioManager.csproj|c:\\users\\lango\\source\\repos\\oop.consoleexample\\audiomanager\\dog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B83A8176-AE16-4279-93ED-4C2B18D84F30}|AudioManager\\AudioManager.csproj|solutionrelative:audiomanager\\dog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Pig.cs",
+              "DocumentMoniker": "C:\\Users\\lango\\source\\repos\\OOP.ConsoleExample\\AudioManager\\Pig.cs",
+              "RelativeDocumentMoniker": "AudioManager\\Pig.cs",
+              "ToolTip": "C:\\Users\\lango\\source\\repos\\OOP.ConsoleExample\\AudioManager\\Pig.cs",
+              "RelativeToolTip": "AudioManager\\Pig.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAwwA0AAABKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-08T18:14:28.167Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Elephant.cs",
+              "DocumentMoniker": "C:\\Users\\lango\\source\\repos\\OOP.ConsoleExample\\AudioManager\\Elephant.cs",
+              "RelativeDocumentMoniker": "AudioManager\\Elephant.cs",
+              "ToolTip": "C:\\Users\\lango\\source\\repos\\OOP.ConsoleExample\\AudioManager\\Elephant.cs",
+              "RelativeToolTip": "AudioManager\\Elephant.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAwwA0AAABPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-08T18:12:42.107Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Lion.cs",
+              "DocumentMoniker": "C:\\Users\\lango\\source\\repos\\OOP.ConsoleExample\\AudioManager\\Lion.cs",
+              "RelativeDocumentMoniker": "AudioManager\\Lion.cs",
+              "ToolTip": "C:\\Users\\lango\\source\\repos\\OOP.ConsoleExample\\AudioManager\\Lion.cs",
+              "RelativeToolTip": "AudioManager\\Lion.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAwwA4AAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-08T18:12:26.461Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Dog.cs",
+              "DocumentMoniker": "C:\\Users\\lango\\source\\repos\\OOP.ConsoleExample\\AudioManager\\Dog.cs",
+              "RelativeDocumentMoniker": "AudioManager\\Dog.cs",
+              "ToolTip": "C:\\Users\\lango\\source\\repos\\OOP.ConsoleExample\\AudioManager\\Dog.cs",
+              "RelativeToolTip": "AudioManager\\Dog.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAswBYAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-08T18:11:25.145Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Cow.cs",
+              "DocumentMoniker": "C:\\Users\\lango\\source\\repos\\OOP.ConsoleExample\\AudioManager\\Cow.cs",
+              "RelativeDocumentMoniker": "AudioManager\\Cow.cs",
+              "ToolTip": "C:\\Users\\lango\\source\\repos\\OOP.ConsoleExample\\AudioManager\\Cow.cs",
+              "RelativeToolTip": "AudioManager\\Cow.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAAAA8AAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-08T18:11:03.603Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Cat.cs",
+              "DocumentMoniker": "C:\\Users\\lango\\source\\repos\\OOP.ConsoleExample\\AudioManager\\Cat.cs",
+              "RelativeDocumentMoniker": "AudioManager\\Cat.cs",
+              "ToolTip": "C:\\Users\\lango\\source\\repos\\OOP.ConsoleExample\\AudioManager\\Cat.cs",
+              "RelativeToolTip": "AudioManager\\Cat.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAAAA0AAABKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-08T18:10:49.925Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Animal.cs",
+              "DocumentMoniker": "C:\\Users\\lango\\source\\repos\\OOP.ConsoleExample\\AudioManager\\Animal.cs",
+              "RelativeDocumentMoniker": "AudioManager\\Animal.cs",
+              "ToolTip": "C:\\Users\\lango\\source\\repos\\OOP.ConsoleExample\\AudioManager\\Animal.cs",
+              "RelativeToolTip": "AudioManager\\Animal.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-06T00:03:56.157Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\lango\\source\\repos\\OOP.ConsoleExample\\OOP.ConsoleExample\\Program.cs",
+              "RelativeDocumentMoniker": "OOP.ConsoleExample\\Program.cs",
+              "ToolTip": "C:\\Users\\lango\\source\\repos\\OOP.ConsoleExample\\OOP.ConsoleExample\\Program.cs",
+              "RelativeToolTip": "OOP.ConsoleExample\\Program.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAADwvzgAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T23:49:49.169Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
