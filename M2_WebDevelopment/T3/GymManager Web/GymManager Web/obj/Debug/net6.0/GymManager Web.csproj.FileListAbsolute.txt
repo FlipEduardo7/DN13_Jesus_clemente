@@ -1,0 +1,28 @@
+C:\Users\lango\source\repos\GymManager Web\GymManager Web\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\lango\source\repos\GymManager Web\GymManager Web\bin\Debug\net6.0\appsettings.json
+C:\Users\lango\source\repos\GymManager Web\GymManager Web\bin\Debug\net6.0\GymManager Web.exe
+C:\Users\lango\source\repos\GymManager Web\GymManager Web\bin\Debug\net6.0\GymManager Web.deps.json
+C:\Users\lango\source\repos\GymManager Web\GymManager Web\bin\Debug\net6.0\GymManager Web.runtimeconfig.json
+C:\Users\lango\source\repos\GymManager Web\GymManager Web\bin\Debug\net6.0\GymManager Web.dll
+C:\Users\lango\source\repos\GymManager Web\GymManager Web\bin\Debug\net6.0\GymManager Web.pdb
+C:\Users\lango\source\repos\GymManager Web\GymManager Web\obj\Debug\net6.0\GymManager Web.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lango\source\repos\GymManager Web\GymManager Web\obj\Debug\net6.0\GymManager Web.AssemblyInfoInputs.cache
+C:\Users\lango\source\repos\GymManager Web\GymManager Web\obj\Debug\net6.0\GymManager Web.AssemblyInfo.cs
+C:\Users\lango\source\repos\GymManager Web\GymManager Web\obj\Debug\net6.0\GymManager Web.csproj.CoreCompileInputs.cache
+C:\Users\lango\source\repos\GymManager Web\GymManager Web\obj\Debug\net6.0\GymManager Web.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\lango\source\repos\GymManager Web\GymManager Web\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\lango\source\repos\GymManager Web\GymManager Web\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\lango\source\repos\GymManager Web\GymManager Web\obj\Debug\net6.0\staticwebassets\msbuild.GymManager Web.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\lango\source\repos\GymManager Web\GymManager Web\obj\Debug\net6.0\staticwebassets\msbuild.build.GymManager Web.props
+C:\Users\lango\source\repos\GymManager Web\GymManager Web\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.GymManager Web.props
+C:\Users\lango\source\repos\GymManager Web\GymManager Web\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.GymManager Web.props
+C:\Users\lango\source\repos\GymManager Web\GymManager Web\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\lango\source\repos\GymManager Web\GymManager Web\obj\Debug\net6.0\scopedcss\bundle\GymManager Web.styles.css
+C:\Users\lango\source\repos\GymManager Web\GymManager Web\obj\Debug\net6.0\GymManager Web.dll
+C:\Users\lango\source\repos\GymManager Web\GymManager Web\obj\Debug\net6.0\refint\GymManager Web.dll
+C:\Users\lango\source\repos\GymManager Web\GymManager Web\obj\Debug\net6.0\GymManager Web.pdb
+C:\Users\lango\source\repos\GymManager Web\GymManager Web\obj\Debug\net6.0\GymManager Web.genruntimeconfig.cache
+C:\Users\lango\source\repos\GymManager Web\GymManager Web\obj\Debug\net6.0\ref\GymManager Web.dll
+C:\Users\lango\source\repos\GymManager Web\GymManager Web\bin\Debug\net6.0\GymManager Web.staticwebassets.runtime.json
+C:\Users\lango\source\repos\GymManager Web\GymManager Web\obj\Debug\net6.0\GymManager Web.RazorAssemblyInfo.cache
+C:\Users\lango\source\repos\GymManager Web\GymManager Web\obj\Debug\net6.0\GymManager Web.RazorAssemblyInfo.cs
