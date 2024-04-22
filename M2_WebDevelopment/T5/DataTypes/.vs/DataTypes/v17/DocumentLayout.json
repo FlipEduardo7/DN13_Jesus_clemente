@@ -1,0 +1,101 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\GitHub\\DN13_Jesus_clemente\\M2_WebDevelopment\\T5\\DataTypes\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A3C381A8-BF24-4E89-BB04-6C8D445F6066}|DataTypes.Web\\DataTypes.Web.csproj|f:\\github\\dn13_jesus_clemente\\m2_webdevelopment\\t5\\datatypes\\datatypes.web\\wwwroot\\datatypes.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A3C381A8-BF24-4E89-BB04-6C8D445F6066}|DataTypes.Web\\DataTypes.Web.csproj|solutionrelative:datatypes.web\\wwwroot\\datatypes.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3C381A8-BF24-4E89-BB04-6C8D445F6066}|DataTypes.Web\\DataTypes.Web.csproj|f:\\github\\dn13_jesus_clemente\\m2_webdevelopment\\t5\\datatypes\\datatypes.web\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A3C381A8-BF24-4E89-BB04-6C8D445F6066}|DataTypes.Web\\DataTypes.Web.csproj|solutionrelative:datatypes.web\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B10B77A-5A7D-4B0B-B511-9C9E53C9D5B6}|DataTypes\\DataTypes.csproj|f:\\github\\dn13_jesus_clemente\\m2_webdevelopment\\t5\\datatypes\\datatypes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B10B77A-5A7D-4B0B-B511-9C9E53C9D5B6}|DataTypes\\DataTypes.csproj|solutionrelative:datatypes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3C381A8-BF24-4E89-BB04-6C8D445F6066}|DataTypes.Web\\DataTypes.Web.csproj|f:\\github\\dn13_jesus_clemente\\m2_webdevelopment\\t5\\datatypes\\datatypes.web\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3C381A8-BF24-4E89-BB04-6C8D445F6066}|DataTypes.Web\\DataTypes.Web.csproj|solutionrelative:datatypes.web\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3C381A8-BF24-4E89-BB04-6C8D445F6066}|DataTypes.Web\\DataTypes.Web.csproj|f:\\github\\dn13_jesus_clemente\\m2_webdevelopment\\t5\\datatypes\\datatypes.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3C381A8-BF24-4E89-BB04-6C8D445F6066}|DataTypes.Web\\DataTypes.Web.csproj|solutionrelative:datatypes.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\GitHub\\DN13_Jesus_clemente\\M2_WebDevelopment\\T5\\DataTypes\\DataTypes\\Program.cs",
+              "RelativeDocumentMoniker": "DataTypes\\Program.cs",
+              "ToolTip": "F:\\GitHub\\DN13_Jesus_clemente\\M2_WebDevelopment\\T5\\DataTypes\\DataTypes\\Program.cs",
+              "RelativeToolTip": "DataTypes\\Program.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAA8wCcAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T16:07:40.135Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "dataTypes.js",
+              "DocumentMoniker": "F:\\GitHub\\DN13_Jesus_clemente\\M2_WebDevelopment\\T5\\DataTypes\\DataTypes.Web\\wwwroot\\dataTypes.js",
+              "RelativeDocumentMoniker": "DataTypes.Web\\wwwroot\\dataTypes.js",
+              "ToolTip": "F:\\GitHub\\DN13_Jesus_clemente\\M2_WebDevelopment\\T5\\DataTypes\\DataTypes.Web\\wwwroot\\dataTypes.js",
+              "RelativeToolTip": "DataTypes.Web\\wwwroot\\dataTypes.js",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAswBsAAABeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-04-22T15:01:00.789Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "F:\\GitHub\\DN13_Jesus_clemente\\M2_WebDevelopment\\T5\\DataTypes\\DataTypes.Web\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "DataTypes.Web\\Views\\Home\\Index.cshtml",
+              "ToolTip": "F:\\GitHub\\DN13_Jesus_clemente\\M2_WebDevelopment\\T5\\DataTypes\\DataTypes.Web\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "DataTypes.Web\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAACEAAAAAAAAAAAAAACUAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-22T14:58:32.9Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "F:\\GitHub\\DN13_Jesus_clemente\\M2_WebDevelopment\\T5\\DataTypes\\DataTypes.Web\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "DataTypes.Web\\Controllers\\HomeController.cs",
+              "ToolTip": "F:\\GitHub\\DN13_Jesus_clemente\\M2_WebDevelopment\\T5\\DataTypes\\DataTypes.Web\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "DataTypes.Web\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T14:57:31.273Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\GitHub\\DN13_Jesus_clemente\\M2_WebDevelopment\\T5\\DataTypes\\DataTypes.Web\\Program.cs",
+              "RelativeDocumentMoniker": "DataTypes.Web\\Program.cs",
+              "ToolTip": "F:\\GitHub\\DN13_Jesus_clemente\\M2_WebDevelopment\\T5\\DataTypes\\DataTypes.Web\\Program.cs",
+              "RelativeToolTip": "DataTypes.Web\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T14:48:34.512Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
