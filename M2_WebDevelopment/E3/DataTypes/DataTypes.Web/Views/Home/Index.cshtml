@@ -1,0 +1,63 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+
+<html>
+
+    <head>
+        <title>JavaScript DataTypes</title>
+
+        <style>
+            button{
+                padding:10px;
+            }
+
+            .redButton{
+                background: #FD8473;
+            }
+
+            .greenButton {
+                background: #ACEAAC;
+            }
+
+
+        </style>
+    </head>
+
+    <body>
+
+    <div id="container">
+
+        <video id="background_video" loop muted></video>
+        <div id="video_cover"></div>
+        <div id="overlay"></div>
+
+        <section id="main_content">
+            <button id="button1" class="btn greenButton" name="testButton">Toast</button>
+            <button class="btn greenButton" name="testButton2">Click Me!</button>
+            <button name="testButton3" class="btn greenButton">Click Me!</button>
+            <button class="btn greenButton" name="testButton4">Click Me!</button>
+            <button name="testButton5" class="btn greenButton">Click Me!</button>
+            <button class="btn greenButton" name="testButton6">Click Me!</button>
+
+            <table id="sampleTable">
+                <thead>
+                    <tr>
+                        <td>Button Name</td>
+                        <td>Click On</td>
+                    </tr>
+                </thead>
+            </table>
+        </section>
+        
+    </div>
+
+    <script src="~/lib/toast.min.js"></script>
+        <script src="~/lib/moment.js"></script>
+        <script src="~/dataTypes.js"></script>
+    </body>
+
+
+</html>

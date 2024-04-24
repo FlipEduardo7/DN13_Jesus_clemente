@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\lango\\source\\repos\\DataTypes\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A3C381A8-BF24-4E89-BB04-6C8D445F6066}|DataTypes.Web\\DataTypes.Web.csproj|c:\\users\\lango\\source\\repos\\datatypes\\datatypes.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3C381A8-BF24-4E89-BB04-6C8D445F6066}|DataTypes.Web\\DataTypes.Web.csproj|solutionrelative:datatypes.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3C381A8-BF24-4E89-BB04-6C8D445F6066}|DataTypes.Web\\DataTypes.Web.csproj|c:\\users\\lango\\source\\repos\\datatypes\\datatypes.web\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A3C381A8-BF24-4E89-BB04-6C8D445F6066}|DataTypes.Web\\DataTypes.Web.csproj|solutionrelative:datatypes.web\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3C381A8-BF24-4E89-BB04-6C8D445F6066}|DataTypes.Web\\DataTypes.Web.csproj|c:\\users\\lango\\source\\repos\\datatypes\\datatypes.web\\wwwroot\\customerarrayjs.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A3C381A8-BF24-4E89-BB04-6C8D445F6066}|DataTypes.Web\\DataTypes.Web.csproj|solutionrelative:datatypes.web\\wwwroot\\customerarrayjs.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B10B77A-5A7D-4B0B-B511-9C9E53C9D5B6}|DataTypes\\DataTypes.csproj|c:\\users\\lango\\source\\repos\\datatypes\\datatypes\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B10B77A-5A7D-4B0B-B511-9C9E53C9D5B6}|DataTypes\\DataTypes.csproj|solutionrelative:datatypes\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\lango\\source\\repos\\DataTypes\\DataTypes.Web\\Program.cs",
+              "RelativeDocumentMoniker": "DataTypes.Web\\Program.cs",
+              "ToolTip": "C:\\Users\\lango\\source\\repos\\DataTypes\\DataTypes.Web\\Program.cs",
+              "RelativeToolTip": "DataTypes.Web\\Program.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAsAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T01:19:15.415Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CustomerArrayJS.js",
+              "DocumentMoniker": "C:\\Users\\lango\\source\\repos\\DataTypes\\DataTypes.Web\\wwwroot\\CustomerArrayJS.js",
+              "RelativeDocumentMoniker": "DataTypes.Web\\wwwroot\\CustomerArrayJS.js",
+              "ToolTip": "C:\\Users\\lango\\source\\repos\\DataTypes\\DataTypes.Web\\wwwroot\\CustomerArrayJS.js",
+              "RelativeToolTip": "DataTypes.Web\\wwwroot\\CustomerArrayJS.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-04-24T00:35:53.939Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "index.html",
+              "DocumentMoniker": "C:\\Users\\lango\\source\\repos\\DataTypes\\DataTypes.Web\\wwwroot\\index.html",
+              "RelativeDocumentMoniker": "DataTypes.Web\\wwwroot\\index.html",
+              "ToolTip": "C:\\Users\\lango\\source\\repos\\DataTypes\\DataTypes.Web\\wwwroot\\index.html",
+              "RelativeToolTip": "DataTypes.Web\\wwwroot\\index.html",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-04-24T00:10:24.074Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Users\\lango\\source\\repos\\DataTypes\\DataTypes\\Customer.cs",
+              "RelativeDocumentMoniker": "DataTypes\\Customer.cs",
+              "ToolTip": "C:\\Users\\lango\\source\\repos\\DataTypes\\DataTypes\\Customer.cs",
+              "RelativeToolTip": "DataTypes\\Customer.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T00:03:08.745Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

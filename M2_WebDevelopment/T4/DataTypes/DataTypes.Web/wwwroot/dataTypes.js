@@ -10,13 +10,13 @@ let complexObject = {
 
 let text1 = "text";
 let text2 = "text";
-//let ul = "<ul>";
+let ul = "<ul>";
 
-//for (let i = 0; i < textExample.length; i++) {
-//    ul += ("<li>" + textExample[i] + "</li>");
-//}
+for (let i = 0; i < textExample.length; i++) {
+   ul += ("<li>" + textExample[i] + "</li>");
+}
 
-//ul += "</ul>";
+ul += "</ul>";
 
 let data = "133333";
 
