@@ -1,0 +1,84 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Bootstrap demo</title>
+    <link href="~/bootstrap/css/bootstrap.min.css" rel="stylesheet" />
+    <style>
+        @@import url('https://fonts.googleapis.com/css2?family=Comic+Neue:wght@300;400;700&display=swap');
+
+        body {
+            font-family: "Comic Neue", cursive;
+            font-weight: 700;
+            font-style: normal;
+        }
+
+    </style>
+</head>
+<body>
+    <nav class="navbar navbar-expand-lg navbar bg-primary border-bottom border-body" data-bs-theme="dark">
+        <div class="container-fluid">
+            <img src="~/Images/logo.png" alt="Bootstrap" width="40" height="40">
+            <!--https://www.bing.com/images/create/a-3d-logo-gym-style/1-6627ce6cfd8b4eec9f5db0be2a1a417c?id=YdRN2uKjPKT561W8OmhlZQ%3d%3d&view=detailv2&idpp=genimg&thId=OIG1.tf8uNGho7uBoAGjdmoJp&darkschemeovr=1&FORM=GCRIDP&mode=overlay-->
+            <a class="navbar-brand" href="#">Gym Manager</a>
+            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
+                <div class="navbar-nav">
+                    <a class="nav-link active" aria-current="page" href="#">Home</a>
+                    <a class="nav-link" href="#">Features</a>
+                    <a class="nav-link" href="#">Pricing</a>
+                    <a class="nav-link disabled" aria-disabled="true">Disabled</a>
+                </div>
+            </div>
+        </div>
+    </nav>
+
+    <div class="container mt-4">
+
+        <h1>Member Out</h1>
+
+        <form class="row g-3">
+            <div class="col-auto">
+                <label for="exampleFormControlInput1" class="form-label">Member ID</label>
+            </div>
+            <div class="col-auto">
+                <input type="text" class="form-control" id="idMember" placeholder="ID">
+            </div>
+            <div class="col-auto">
+                <button type="button" id="btnModal" class="btn btn-primary mb-3">Register</button>
+            </div>
+        </form>
+
+        <div class="modal" id="myModal" tabindex="-1">
+            <div class="modal-dialog">
+                <div class="modal-content">
+                    <div class="modal-header">
+                        <h5 class="modal-title">Salida del Gimnasio</h5>
+                        <button type="button"
+                                class="btn-close"
+                                data-bs-dismiss="modal"
+                                aria-label="Close"></button>
+                    </div>
+                    <div class="modal-body">
+                        <p id="idText">Salida del miembro: </p>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+    </div>
+
+
+    <script src="~/bootstrap/js/bootstrap.min.js"></script>
+    <script src="~/modal.js"></script>
+</body>
+</html>

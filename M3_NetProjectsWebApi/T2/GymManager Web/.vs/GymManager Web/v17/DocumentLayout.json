@@ -1,0 +1,173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\lango\\source\\repos\\GymManager Web\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F411DECE-08AB-4E92-B097-D8ED9D9117A3}|GymManager Web\\GymManager Web.csproj|c:\\users\\lango\\source\\repos\\gymmanager web\\gymmanager web\\views\\members\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F411DECE-08AB-4E92-B097-D8ED9D9117A3}|GymManager Web\\GymManager Web.csproj|solutionrelative:gymmanager web\\views\\members\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F411DECE-08AB-4E92-B097-D8ED9D9117A3}|GymManager Web\\GymManager Web.csproj|c:\\users\\lango\\source\\repos\\gymmanager web\\gymmanager web\\views\\shared\\_memberlist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F411DECE-08AB-4E92-B097-D8ED9D9117A3}|GymManager Web\\GymManager Web.csproj|solutionrelative:gymmanager web\\views\\shared\\_memberlist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98DDF10C-73AC-4B62-8BF7-CB534A32ED69}|GymManager.ApplicationServices\\GymManager.ApplicationServices.csproj|c:\\users\\lango\\source\\repos\\gymmanager web\\gymmanager.applicationservices\\members\\imembersappservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98DDF10C-73AC-4B62-8BF7-CB534A32ED69}|GymManager.ApplicationServices\\GymManager.ApplicationServices.csproj|solutionrelative:gymmanager.applicationservices\\members\\imembersappservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98DDF10C-73AC-4B62-8BF7-CB534A32ED69}|GymManager.ApplicationServices\\GymManager.ApplicationServices.csproj|c:\\users\\lango\\source\\repos\\gymmanager web\\gymmanager.applicationservices\\members\\membersappservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98DDF10C-73AC-4B62-8BF7-CB534A32ED69}|GymManager.ApplicationServices\\GymManager.ApplicationServices.csproj|solutionrelative:gymmanager.applicationservices\\members\\membersappservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F411DECE-08AB-4E92-B097-D8ED9D9117A3}|GymManager Web\\GymManager Web.csproj|c:\\users\\lango\\source\\repos\\gymmanager web\\gymmanager web\\controllers\\memberscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F411DECE-08AB-4E92-B097-D8ED9D9117A3}|GymManager Web\\GymManager Web.csproj|solutionrelative:gymmanager web\\controllers\\memberscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F411DECE-08AB-4E92-B097-D8ED9D9117A3}|GymManager Web\\GymManager Web.csproj|c:\\users\\lango\\source\\repos\\gymmanager web\\gymmanager web\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F411DECE-08AB-4E92-B097-D8ED9D9117A3}|GymManager Web\\GymManager Web.csproj|solutionrelative:gymmanager web\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F411DECE-08AB-4E92-B097-D8ED9D9117A3}|GymManager Web\\GymManager Web.csproj|c:\\users\\lango\\source\\repos\\gymmanager web\\gymmanager web\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F411DECE-08AB-4E92-B097-D8ED9D9117A3}|GymManager Web\\GymManager Web.csproj|solutionrelative:gymmanager web\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F411DECE-08AB-4E92-B097-D8ED9D9117A3}|GymManager Web\\GymManager Web.csproj|c:\\users\\lango\\source\\repos\\gymmanager web\\gymmanager web\\views\\members\\test.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F411DECE-08AB-4E92-B097-D8ED9D9117A3}|GymManager Web\\GymManager Web.csproj|solutionrelative:gymmanager web\\views\\members\\test.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F411DECE-08AB-4E92-B097-D8ED9D9117A3}|GymManager Web\\GymManager Web.csproj|c:\\users\\lango\\source\\repos\\gymmanager web\\gymmanager web\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F411DECE-08AB-4E92-B097-D8ED9D9117A3}|GymManager Web\\GymManager Web.csproj|solutionrelative:gymmanager web\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Test.cshtml",
+              "DocumentMoniker": "C:\\Users\\lango\\source\\repos\\GymManager Web\\GymManager Web\\Views\\Members\\Test.cshtml",
+              "RelativeDocumentMoniker": "GymManager Web\\Views\\Members\\Test.cshtml",
+              "ToolTip": "C:\\Users\\lango\\source\\repos\\GymManager Web\\GymManager Web\\Views\\Members\\Test.cshtml",
+              "RelativeToolTip": "GymManager Web\\Views\\Members\\Test.cshtml",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAABYAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-26T17:22:03.46Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\lango\\source\\repos\\GymManager Web\\GymManager Web\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "GymManager Web\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\lango\\source\\repos\\GymManager Web\\GymManager Web\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "GymManager Web\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAA9wBAAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T16:23:23.488Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MembersController.cs",
+              "DocumentMoniker": "C:\\Users\\lango\\source\\repos\\GymManager Web\\GymManager Web\\Controllers\\MembersController.cs",
+              "RelativeDocumentMoniker": "GymManager Web\\Controllers\\MembersController.cs",
+              "ToolTip": "C:\\Users\\lango\\source\\repos\\GymManager Web\\GymManager Web\\Controllers\\MembersController.cs",
+              "RelativeToolTip": "GymManager Web\\Controllers\\MembersController.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAswBEAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T20:54:47.435Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MembersAppService.cs",
+              "DocumentMoniker": "C:\\Users\\lango\\source\\repos\\GymManager Web\\GymManager.ApplicationServices\\Members\\MembersAppService.cs",
+              "RelativeDocumentMoniker": "GymManager.ApplicationServices\\Members\\MembersAppService.cs",
+              "ToolTip": "C:\\Users\\lango\\source\\repos\\GymManager Web\\GymManager.ApplicationServices\\Members\\MembersAppService.cs",
+              "RelativeToolTip": "GymManager.ApplicationServices\\Members\\MembersAppService.cs",
+              "ViewState": "AQIAAEMAAAAAAAAAAAA8wEcAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T17:45:16.471Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IMembersAppService.cs",
+              "DocumentMoniker": "C:\\Users\\lango\\source\\repos\\GymManager Web\\GymManager.ApplicationServices\\Members\\IMembersAppService.cs",
+              "RelativeDocumentMoniker": "GymManager.ApplicationServices\\Members\\IMembersAppService.cs",
+              "ToolTip": "C:\\Users\\lango\\source\\repos\\GymManager Web\\GymManager.ApplicationServices\\Members\\IMembersAppService.cs",
+              "RelativeToolTip": "GymManager.ApplicationServices\\Members\\IMembersAppService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T17:43:37.078Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_MemberList.cshtml",
+              "DocumentMoniker": "C:\\Users\\lango\\source\\repos\\GymManager Web\\GymManager Web\\Views\\Shared\\_MemberList.cshtml",
+              "RelativeDocumentMoniker": "GymManager Web\\Views\\Shared\\_MemberList.cshtml",
+              "ToolTip": "C:\\Users\\lango\\source\\repos\\GymManager Web\\GymManager Web\\Views\\Shared\\_MemberList.cshtml",
+              "RelativeToolTip": "GymManager Web\\Views\\Shared\\_MemberList.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABcAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-25T16:00:13.399Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\lango\\source\\repos\\GymManager Web\\GymManager Web\\Views\\Members\\Index.cshtml",
+              "RelativeDocumentMoniker": "GymManager Web\\Views\\Members\\Index.cshtml",
+              "ToolTip": "C:\\Users\\lango\\source\\repos\\GymManager Web\\GymManager Web\\Views\\Members\\Index.cshtml",
+              "RelativeToolTip": "GymManager Web\\Views\\Members\\Index.cshtml",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAABsAAABUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-25T02:33:55.212Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\lango\\source\\repos\\GymManager Web\\GymManager Web\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "GymManager Web\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\lango\\source\\repos\\GymManager Web\\GymManager Web\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "GymManager Web\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-25T01:55:47.123Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\lango\\source\\repos\\GymManager Web\\GymManager Web\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "GymManager Web\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\lango\\source\\repos\\GymManager Web\\GymManager Web\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "GymManager Web\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAKwAAAAAAAAAAAAAAKkAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-25T00:18:50.292Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
