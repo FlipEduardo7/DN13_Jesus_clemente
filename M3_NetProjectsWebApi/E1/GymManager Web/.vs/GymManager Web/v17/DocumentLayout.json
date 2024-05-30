@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\lango\\source\\repos\\GymManager Web\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F411DECE-08AB-4E92-B097-D8ED9D9117A3}|GymManager Web\\GymManager Web.csproj|c:\\users\\lango\\source\\repos\\gymmanager web\\gymmanager web\\controllers\\membershiptypescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F411DECE-08AB-4E92-B097-D8ED9D9117A3}|GymManager Web\\GymManager Web.csproj|solutionrelative:gymmanager web\\controllers\\membershiptypescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F411DECE-08AB-4E92-B097-D8ED9D9117A3}|GymManager Web\\GymManager Web.csproj|c:\\users\\lango\\source\\repos\\gymmanager web\\gymmanager web\\views\\shared\\_membershiplist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F411DECE-08AB-4E92-B097-D8ED9D9117A3}|GymManager Web\\GymManager Web.csproj|solutionrelative:gymmanager web\\views\\shared\\_membershiplist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F411DECE-08AB-4E92-B097-D8ED9D9117A3}|GymManager Web\\GymManager Web.csproj|c:\\users\\lango\\source\\repos\\gymmanager web\\gymmanager web\\views\\membershiptypes\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F411DECE-08AB-4E92-B097-D8ED9D9117A3}|GymManager Web\\GymManager Web.csproj|solutionrelative:gymmanager web\\views\\membershiptypes\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F411DECE-08AB-4E92-B097-D8ED9D9117A3}|GymManager Web\\GymManager Web.csproj|c:\\users\\lango\\source\\repos\\gymmanager web\\gymmanager web\\views\\membershiptypes\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F411DECE-08AB-4E92-B097-D8ED9D9117A3}|GymManager Web\\GymManager Web.csproj|solutionrelative:gymmanager web\\views\\membershiptypes\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F411DECE-08AB-4E92-B097-D8ED9D9117A3}|GymManager Web\\GymManager Web.csproj|c:\\users\\lango\\source\\repos\\gymmanager web\\gymmanager web\\controllers\\memberscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F411DECE-08AB-4E92-B097-D8ED9D9117A3}|GymManager Web\\GymManager Web.csproj|solutionrelative:gymmanager web\\controllers\\memberscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F411DECE-08AB-4E92-B097-D8ED9D9117A3}|GymManager Web\\GymManager Web.csproj|c:\\users\\lango\\source\\repos\\gymmanager web\\gymmanager web\\views\\membershiptypes\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F411DECE-08AB-4E92-B097-D8ED9D9117A3}|GymManager Web\\GymManager Web.csproj|solutionrelative:gymmanager web\\views\\membershiptypes\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MembersController.cs",
+              "DocumentMoniker": "C:\\Users\\lango\\source\\repos\\GymManager Web\\GymManager Web\\Controllers\\MembersController.cs",
+              "RelativeDocumentMoniker": "GymManager Web\\Controllers\\MembersController.cs",
+              "ToolTip": "C:\\Users\\lango\\source\\repos\\GymManager Web\\GymManager Web\\Controllers\\MembersController.cs",
+              "RelativeToolTip": "GymManager Web\\Controllers\\MembersController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T19:23:21.864Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\lango\\source\\repos\\GymManager Web\\GymManager Web\\Views\\MembershipTypes\\Create.cshtml",
+              "RelativeDocumentMoniker": "GymManager Web\\Views\\MembershipTypes\\Create.cshtml",
+              "ToolTip": "C:\\Users\\lango\\source\\repos\\GymManager Web\\GymManager Web\\Views\\MembershipTypes\\Create.cshtml",
+              "RelativeToolTip": "GymManager Web\\Views\\MembershipTypes\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-30T19:14:35.339Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\lango\\source\\repos\\GymManager Web\\GymManager Web\\Views\\MembershipTypes\\Edit.cshtml",
+              "RelativeDocumentMoniker": "GymManager Web\\Views\\MembershipTypes\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\lango\\source\\repos\\GymManager Web\\GymManager Web\\Views\\MembershipTypes\\Edit.cshtml",
+              "RelativeToolTip": "GymManager Web\\Views\\MembershipTypes\\Edit.cshtml",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAACUAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-30T19:10:08.409Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_MembershipList.cshtml",
+              "DocumentMoniker": "C:\\Users\\lango\\source\\repos\\GymManager Web\\GymManager Web\\Views\\Shared\\_MembershipList.cshtml",
+              "RelativeDocumentMoniker": "GymManager Web\\Views\\Shared\\_MembershipList.cshtml",
+              "ToolTip": "C:\\Users\\lango\\source\\repos\\GymManager Web\\GymManager Web\\Views\\Shared\\_MembershipList.cshtml",
+              "RelativeToolTip": "GymManager Web\\Views\\Shared\\_MembershipList.cshtml",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAACAAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-30T19:06:27.266Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\lango\\source\\repos\\GymManager Web\\GymManager Web\\Views\\MembershipTypes\\Index.cshtml",
+              "RelativeDocumentMoniker": "GymManager Web\\Views\\MembershipTypes\\Index.cshtml",
+              "ToolTip": "C:\\Users\\lango\\source\\repos\\GymManager Web\\GymManager Web\\Views\\MembershipTypes\\Index.cshtml",
+              "RelativeToolTip": "GymManager Web\\Views\\MembershipTypes\\Index.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABQAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-30T19:06:18.656Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MembershipTypesController.cs",
+              "DocumentMoniker": "C:\\Users\\lango\\source\\repos\\GymManager Web\\GymManager Web\\Controllers\\MembershipTypesController.cs",
+              "RelativeDocumentMoniker": "GymManager Web\\Controllers\\MembershipTypesController.cs",
+              "ToolTip": "C:\\Users\\lango\\source\\repos\\GymManager Web\\GymManager Web\\Controllers\\MembershipTypesController.cs",
+              "RelativeToolTip": "GymManager Web\\Controllers\\MembershipTypesController.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABAAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T19:04:52.489Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

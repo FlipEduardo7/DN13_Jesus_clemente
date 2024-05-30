@@ -1,0 +1,15 @@
+C:\Users\lango\source\repos\GymManager Web\GymManager.ApplicationServices\bin\Debug\net6.0\GymManager.ApplicationServices.deps.json
+C:\Users\lango\source\repos\GymManager Web\GymManager.ApplicationServices\bin\Debug\net6.0\GymManager.ApplicationServices.dll
+C:\Users\lango\source\repos\GymManager Web\GymManager.ApplicationServices\bin\Debug\net6.0\GymManager.ApplicationServices.pdb
+C:\Users\lango\source\repos\GymManager Web\GymManager.ApplicationServices\bin\Debug\net6.0\GymManager.Core.dll
+C:\Users\lango\source\repos\GymManager Web\GymManager.ApplicationServices\bin\Debug\net6.0\GymManager.Core.pdb
+C:\Users\lango\source\repos\GymManager Web\GymManager.ApplicationServices\obj\Debug\net6.0\GymManager.ApplicationServices.csproj.AssemblyReference.cache
+C:\Users\lango\source\repos\GymManager Web\GymManager.ApplicationServices\obj\Debug\net6.0\GymManager.ApplicationServices.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lango\source\repos\GymManager Web\GymManager.ApplicationServices\obj\Debug\net6.0\GymManager.ApplicationServices.AssemblyInfoInputs.cache
+C:\Users\lango\source\repos\GymManager Web\GymManager.ApplicationServices\obj\Debug\net6.0\GymManager.ApplicationServices.AssemblyInfo.cs
+C:\Users\lango\source\repos\GymManager Web\GymManager.ApplicationServices\obj\Debug\net6.0\GymManager.ApplicationServices.csproj.CoreCompileInputs.cache
+C:\Users\lango\source\repos\GymManager Web\GymManager.ApplicationServices\obj\Debug\net6.0\GymManag.A9C3D3F9.Up2Date
+C:\Users\lango\source\repos\GymManager Web\GymManager.ApplicationServices\obj\Debug\net6.0\GymManager.ApplicationServices.dll
+C:\Users\lango\source\repos\GymManager Web\GymManager.ApplicationServices\obj\Debug\net6.0\refint\GymManager.ApplicationServices.dll
+C:\Users\lango\source\repos\GymManager Web\GymManager.ApplicationServices\obj\Debug\net6.0\GymManager.ApplicationServices.pdb
+C:\Users\lango\source\repos\GymManager Web\GymManager.ApplicationServices\obj\Debug\net6.0\ref\GymManager.ApplicationServices.dll
