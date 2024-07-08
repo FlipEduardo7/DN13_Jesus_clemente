@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\lango\\source\\repos\\Linq.Examples\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4DA92C21-230E-471E-8BFB-C99DBAFA7327}|Linq.Examples\\Linq.Examples.csproj|c:\\users\\lango\\source\\repos\\linq.examples\\linq.examples\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DA92C21-230E-471E-8BFB-C99DBAFA7327}|Linq.Examples\\Linq.Examples.csproj|solutionrelative:linq.examples\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DA92C21-230E-471E-8BFB-C99DBAFA7327}|Linq.Examples\\Linq.Examples.csproj|c:\\users\\lango\\source\\repos\\linq.examples\\linq.examples\\entities\\standard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DA92C21-230E-471E-8BFB-C99DBAFA7327}|Linq.Examples\\Linq.Examples.csproj|solutionrelative:linq.examples\\entities\\standard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DA92C21-230E-471E-8BFB-C99DBAFA7327}|Linq.Examples\\Linq.Examples.csproj|c:\\users\\lango\\source\\repos\\linq.examples\\linq.examples\\entities\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DA92C21-230E-471E-8BFB-C99DBAFA7327}|Linq.Examples\\Linq.Examples.csproj|solutionrelative:linq.examples\\entities\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Standard.cs",
+              "DocumentMoniker": "C:\\Users\\lango\\source\\repos\\Linq.Examples\\Linq.Examples\\Entities\\Standard.cs",
+              "RelativeDocumentMoniker": "Linq.Examples\\Entities\\Standard.cs",
+              "ToolTip": "C:\\Users\\lango\\source\\repos\\Linq.Examples\\Linq.Examples\\Entities\\Standard.cs",
+              "RelativeToolTip": "Linq.Examples\\Entities\\Standard.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T21:16:27.055Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\lango\\source\\repos\\Linq.Examples\\Linq.Examples\\Entities\\Student.cs",
+              "RelativeDocumentMoniker": "Linq.Examples\\Entities\\Student.cs",
+              "ToolTip": "C:\\Users\\lango\\source\\repos\\Linq.Examples\\Linq.Examples\\Entities\\Student.cs",
+              "RelativeToolTip": "Linq.Examples\\Entities\\Student.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T21:14:10.173Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\lango\\source\\repos\\Linq.Examples\\Linq.Examples\\Program.cs",
+              "RelativeDocumentMoniker": "Linq.Examples\\Program.cs",
+              "ToolTip": "C:\\Users\\lango\\source\\repos\\Linq.Examples\\Linq.Examples\\Program.cs",
+              "RelativeToolTip": "Linq.Examples\\Program.cs",
+              "ViewState": "AQIAACUAAAAAAAAAAAA2wDMAAABaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T21:12:39.92Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
