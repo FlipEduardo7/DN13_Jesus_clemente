@@ -1,0 +1,17 @@
+F:\GymManager Web\GymManager.ApplicationServices\bin\Debug\net8.0\GymManager.ApplicationServices.deps.json
+F:\GymManager Web\GymManager.ApplicationServices\bin\Debug\net8.0\GymManager.ApplicationServices.dll
+F:\GymManager Web\GymManager.ApplicationServices\bin\Debug\net8.0\GymManager.ApplicationServices.pdb
+F:\GymManager Web\GymManager.ApplicationServices\bin\Debug\net8.0\GymManager.Core.dll
+F:\GymManager Web\GymManager.ApplicationServices\bin\Debug\net8.0\GymManager.Core.pdb
+F:\GymManager Web\GymManager.ApplicationServices\obj\Debug\net8.0\GymManager.ApplicationServices.csproj.AssemblyReference.cache
+F:\GymManager Web\GymManager.ApplicationServices\obj\Debug\net8.0\GymManager.ApplicationServices.GeneratedMSBuildEditorConfig.editorconfig
+F:\GymManager Web\GymManager.ApplicationServices\obj\Debug\net8.0\GymManager.ApplicationServices.AssemblyInfoInputs.cache
+F:\GymManager Web\GymManager.ApplicationServices\obj\Debug\net8.0\GymManager.ApplicationServices.AssemblyInfo.cs
+F:\GymManager Web\GymManager.ApplicationServices\obj\Debug\net8.0\GymManager.ApplicationServices.csproj.CoreCompileInputs.cache
+F:\GymManager Web\GymManager.ApplicationServices\obj\Debug\net8.0\GymManag.A9C3D3F9.Up2Date
+F:\GymManager Web\GymManager.ApplicationServices\obj\Debug\net8.0\GymManager.ApplicationServices.dll
+F:\GymManager Web\GymManager.ApplicationServices\obj\Debug\net8.0\refint\GymManager.ApplicationServices.dll
+F:\GymManager Web\GymManager.ApplicationServices\obj\Debug\net8.0\GymManager.ApplicationServices.pdb
+F:\GymManager Web\GymManager.ApplicationServices\obj\Debug\net8.0\ref\GymManager.ApplicationServices.dll
+F:\GymManager Web\GymManager.ApplicationServices\bin\Debug\net8.0\GymManager.DataAccess.dll
+F:\GymManager Web\GymManager.ApplicationServices\bin\Debug\net8.0\GymManager.DataAccess.pdb

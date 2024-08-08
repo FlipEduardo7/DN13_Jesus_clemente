@@ -148,11 +148,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\lango\\source\\repos\\DataAccess.Example\\DataAccess.Example\\DataAccess.Example.csproj",
+      "projectUniqueName": "F:\\GitHub\\DN13_Jesus_clemente\\M6_NetCoreWithEntityFramework\\T5\\DataAccess.Example\\DataAccess.Example\\DataAccess.Example.csproj",
       "projectName": "DataAccess.Example",
-      "projectPath": "C:\\Users\\lango\\source\\repos\\DataAccess.Example\\DataAccess.Example\\DataAccess.Example.csproj",
+      "projectPath": "F:\\GitHub\\DN13_Jesus_clemente\\M6_NetCoreWithEntityFramework\\T5\\DataAccess.Example\\DataAccess.Example\\DataAccess.Example.csproj",
       "packagesPath": "C:\\Users\\lango\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\lango\\source\\repos\\DataAccess.Example\\DataAccess.Example\\obj\\",
+      "outputPath": "F:\\GitHub\\DN13_Jesus_clemente\\M6_NetCoreWithEntityFramework\\T5\\DataAccess.Example\\DataAccess.Example\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\lango\\AppData\\Roaming\\NuGet\\NuGet.Config",

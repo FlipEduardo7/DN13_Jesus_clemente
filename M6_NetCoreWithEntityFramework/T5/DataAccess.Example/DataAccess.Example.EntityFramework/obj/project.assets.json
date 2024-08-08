@@ -2327,11 +2327,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\lango\\source\\repos\\DataAccess.Example\\DataAccess.Example.EntityFramework\\DataAccess.Example.EntityFramework.csproj",
+      "projectUniqueName": "F:\\GitHub\\DN13_Jesus_clemente\\M6_NetCoreWithEntityFramework\\T5\\DataAccess.Example\\DataAccess.Example.EntityFramework\\DataAccess.Example.EntityFramework.csproj",
       "projectName": "DataAccess.Example.EntityFramework",
-      "projectPath": "C:\\Users\\lango\\source\\repos\\DataAccess.Example\\DataAccess.Example.EntityFramework\\DataAccess.Example.EntityFramework.csproj",
+      "projectPath": "F:\\GitHub\\DN13_Jesus_clemente\\M6_NetCoreWithEntityFramework\\T5\\DataAccess.Example\\DataAccess.Example.EntityFramework\\DataAccess.Example.EntityFramework.csproj",
       "packagesPath": "C:\\Users\\lango\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\lango\\source\\repos\\DataAccess.Example\\DataAccess.Example.EntityFramework\\obj\\",
+      "outputPath": "F:\\GitHub\\DN13_Jesus_clemente\\M6_NetCoreWithEntityFramework\\T5\\DataAccess.Example\\DataAccess.Example.EntityFramework\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\lango\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -2349,8 +2349,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\lango\\source\\repos\\DataAccess.Example\\DataAccess.Example.Core\\DataAccess.Example.Core.csproj": {
-              "projectPath": "C:\\Users\\lango\\source\\repos\\DataAccess.Example\\DataAccess.Example.Core\\DataAccess.Example.Core.csproj"
+            "F:\\GitHub\\DN13_Jesus_clemente\\M6_NetCoreWithEntityFramework\\T5\\DataAccess.Example\\DataAccess.Example.Core\\DataAccess.Example.Core.csproj": {
+              "projectPath": "F:\\GitHub\\DN13_Jesus_clemente\\M6_NetCoreWithEntityFramework\\T5\\DataAccess.Example\\DataAccess.Example.Core\\DataAccess.Example.Core.csproj"
             }
           }
         }
