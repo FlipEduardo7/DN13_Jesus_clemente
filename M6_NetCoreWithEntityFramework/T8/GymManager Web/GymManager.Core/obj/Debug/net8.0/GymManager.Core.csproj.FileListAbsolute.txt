@@ -1,0 +1,12 @@
+F:\GymManager Web\GymManager.Core\bin\Debug\net8.0\GymManager.Core.deps.json
+F:\GymManager Web\GymManager.Core\bin\Debug\net8.0\GymManager.Core.dll
+F:\GymManager Web\GymManager.Core\bin\Debug\net8.0\GymManager.Core.pdb
+F:\GymManager Web\GymManager.Core\obj\Debug\net8.0\GymManager.Core.csproj.AssemblyReference.cache
+F:\GymManager Web\GymManager.Core\obj\Debug\net8.0\GymManager.Core.GeneratedMSBuildEditorConfig.editorconfig
+F:\GymManager Web\GymManager.Core\obj\Debug\net8.0\GymManager.Core.AssemblyInfoInputs.cache
+F:\GymManager Web\GymManager.Core\obj\Debug\net8.0\GymManager.Core.AssemblyInfo.cs
+F:\GymManager Web\GymManager.Core\obj\Debug\net8.0\GymManager.Core.csproj.CoreCompileInputs.cache
+F:\GymManager Web\GymManager.Core\obj\Debug\net8.0\GymManager.Core.dll
+F:\GymManager Web\GymManager.Core\obj\Debug\net8.0\refint\GymManager.Core.dll
+F:\GymManager Web\GymManager.Core\obj\Debug\net8.0\GymManager.Core.pdb
+F:\GymManager Web\GymManager.Core\obj\Debug\net8.0\ref\GymManager.Core.dll

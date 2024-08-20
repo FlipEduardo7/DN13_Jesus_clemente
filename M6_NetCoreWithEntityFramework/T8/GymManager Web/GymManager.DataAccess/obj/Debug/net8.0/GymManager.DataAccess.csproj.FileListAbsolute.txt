@@ -1,0 +1,17 @@
+F:\GymManager Web\GymManager.DataAccess\bin\Debug\net8.0\GymManager.DataAccess.deps.json
+F:\GymManager Web\GymManager.DataAccess\bin\Debug\net8.0\GymManager.DataAccess.runtimeconfig.json
+F:\GymManager Web\GymManager.DataAccess\bin\Debug\net8.0\GymManager.DataAccess.dll
+F:\GymManager Web\GymManager.DataAccess\bin\Debug\net8.0\GymManager.DataAccess.pdb
+F:\GymManager Web\GymManager.DataAccess\obj\Debug\net8.0\GymManager.DataAccess.csproj.AssemblyReference.cache
+F:\GymManager Web\GymManager.DataAccess\obj\Debug\net8.0\GymManager.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+F:\GymManager Web\GymManager.DataAccess\obj\Debug\net8.0\GymManager.DataAccess.AssemblyInfoInputs.cache
+F:\GymManager Web\GymManager.DataAccess\obj\Debug\net8.0\GymManager.DataAccess.AssemblyInfo.cs
+F:\GymManager Web\GymManager.DataAccess\obj\Debug\net8.0\GymManager.DataAccess.csproj.CoreCompileInputs.cache
+F:\GymManager Web\GymManager.DataAccess\obj\Debug\net8.0\GymManager.DataAccess.dll
+F:\GymManager Web\GymManager.DataAccess\obj\Debug\net8.0\refint\GymManager.DataAccess.dll
+F:\GymManager Web\GymManager.DataAccess\obj\Debug\net8.0\GymManager.DataAccess.pdb
+F:\GymManager Web\GymManager.DataAccess\obj\Debug\net8.0\GymManager.DataAccess.genruntimeconfig.cache
+F:\GymManager Web\GymManager.DataAccess\obj\Debug\net8.0\ref\GymManager.DataAccess.dll
+F:\GymManager Web\GymManager.DataAccess\bin\Debug\net8.0\GymManager.Core.dll
+F:\GymManager Web\GymManager.DataAccess\bin\Debug\net8.0\GymManager.Core.pdb
+F:\GymManager Web\GymManager.DataAccess\obj\Debug\net8.0\GymManag.9589B9E4.Up2Date
